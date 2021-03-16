@@ -22,6 +22,7 @@ header{
 /*Requirement 3*/
 .nav_links{
   /*Your code here again.*/
+  display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
@@ -174,7 +175,7 @@ header{
     flex-basis: 200px;
   }  
   /*Requirement 18*/
-  .gallery{
+  #gallery{
     display: none;
   }
  

@@ -129,9 +129,9 @@ header{
   }
 
   /*Requirement 11*/
-  .package {
+  .package{
     /*Your code here again.*/
-    flex-basis: 225px;
+    flex-basis: 230px;
   } 
 }
 
@@ -176,6 +176,9 @@ header{
   }  
   /*Requirement 18*/
   #gallery{
+    display: none;
+  }
+  .gallery{
     display: none;
   }
  
